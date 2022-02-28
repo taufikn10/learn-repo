@@ -9,9 +9,4 @@
   1. Laravel
 - Dart
   1. Flutter
-=======
-- PHP
-  1. Laravel
-- Dart
-  1. Flutter
 - Java
