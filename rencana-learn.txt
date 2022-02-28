@@ -2,8 +2,16 @@
 - Javascript
   1. ES6
   2. Framework Javascript
-    + Angular
+    ` Angular
+    ` react
+    ` vue
 - PHP
   1. Laravel
 - Dart
   1. Flutter
+=======
+- PHP
+  1. Laravel
+- Dart
+  1. Flutter
+- Java
