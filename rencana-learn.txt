@@ -1,5 +1,6 @@
 ## Rencana
 - Javascript
+  1. ES6
+  2. Framework Javascript
 - PHP
-- React
-- Flutter
+- Dart
