@@ -2,7 +2,10 @@
 - Javascript
   1. ES6
   2. Framework Javascript
+    `react
+    `vue
 - PHP
   1. Laravel
 - Dart
   2. Flutter
+- Java
