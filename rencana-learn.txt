@@ -1,0 +1,5 @@
+## Rencana
+- Javascript
+- PHP
+- React
+- Flutter
